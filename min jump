@@ -1,5 +1,7 @@
-
+      
   (*  Q.  Find the minimum number of jumps to reach the end of the array starting from the first element. If an element is 0, then you cannot move through that element. *)
+
+  Date ---> 08-09-24
 int minJumps(vector<int>& arr) 
 {
     int n = arr.size();
